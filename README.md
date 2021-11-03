@@ -3,6 +3,6 @@ Using Python to do web crawling, and the target websites are "iCheers" and "JIO 
 
 ## Target websites
 * 愛酒窩iCheers : https://www.icheers.tw/iCheers/
-  * See iCheers.ipynb
+  * See iCheers.py
 * 酒條通 : https://www.609.com.tw
-  * See JGC.ipynb
+  * See JGC.py
